@@ -4,7 +4,7 @@ Detect and block phishing websites with the help of artificial intelligence
 # LIVE
 https://huggingface.co/spaces/mstkyvz/WebPhishingDetection
 
-#Screenshot
+# Screenshot
 ![Screenshot](image.png)
 
 # Requirements
