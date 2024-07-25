@@ -9,13 +9,24 @@ https://huggingface.co/spaces/mstkyvz/WebPhishingDetection
 
 # Requirements
 streamlit
+
 tensorflow
+
 ipaddress
+
 beautifulsoup4
+
 requests
+
 googlesearch-python
+
 python-whois
+
 Flask
+
 numpy
+
 python-dateutil
+
 scikit-learn
+
